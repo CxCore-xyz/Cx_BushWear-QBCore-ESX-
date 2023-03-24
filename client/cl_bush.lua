@@ -18,7 +18,7 @@ AddEventHandler('cxc:client:bush:qbcore', function()
             QBCore.Functions.Notify(Lang:t("progbar.progbar_cancel"), 'error')
       end)
   else
-    QBCore.Functions.Progressbar("spawn_table", Lang:t("progbar.progbar_puton"), Config.BushTime, false, true, {
+    QBCore.Functions.Progressbar("spawn_table", Lang:t("progbar.progbar_puton"), Config.BushPutOnTime, false, true, {
             disableMovement = true,
             disableCarMovement = true,
             disableMouse = false,
