@@ -8,3 +8,6 @@ This script will allow you to wear an bush as an cover for missions or just for 
 #ESX
 Just add an item to database!
 Item: c_bush
+
+#PREVIEW
+https://www.youtube.com/watch?v=Ns3Ftb_rI38
