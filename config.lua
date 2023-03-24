@@ -7,7 +7,7 @@ Config.Core = "QBCore" -- Want to change cores? Use: QBCore or ESX
 Config.BushProp = "prop_bush_med_06" -- Any bush prop will work
 
 --Progress Bar Settings (QBCore)
-Config.BushTime = 2000 -- 2 Seconds
+Config.BushPutOnTime = 2000 -- 2 Seconds
 Config.BushTakeOffTime = 2000 -- 2 Seconds
 
 --Item settings
