@@ -1,5 +1,5 @@
 # Cx_BushWear-QBCore-ESX
-This script will allow you to wear an bush as an cover for missions or just for fun
+This scripts makes bush prop as item wich you can wear it and camouflage you from others, supports QBCore and ESX.
 
 # Preview
 https://www.youtube.com/watch?v=Ns3Ftb_rI38
