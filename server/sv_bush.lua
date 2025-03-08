@@ -17,6 +17,13 @@ elseif Config.Core == "ESX" then
      print('[INFORMATION]: The script started without core set in config.lua!')
 end   
 
-
-
-
+AddEventHandler('onResourceStart', function(resource)
+   if resource == GetCurrentResourceName() then
+	Citizen.Wait(5000)
+        print('^2>>-----------------^4CxCore^2----------------<<')
+	print('^4Cx_BushWear ^0(Created By CxCore)')
+        print('^1Discord : ^0https://discord.gg/CcVQHbJCSH')
+        print('^5Discord #2 : ^0https://dsc.gg/CxCCore')
+        print('^2>>-----------------^4CxCore^2----------------<<')
+   end
+end)
